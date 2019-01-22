@@ -1,6 +1,8 @@
 # Speed GPS vs Accelerometer
 
-![Screenshot](https://github.com/Xsims/SpeedGpsVsAccelerometer/blob/master/app/src/main/res/drawable-v24/Screenshot_20190122-221135.jpg)
+<p align="center">
+  <img src="https://github.com/Xsims/SpeedGpsVsAccelerometer/blob/master/app/src/main/res/drawable-v24/Screenshot_20190122-221135.jpg" width="350" title="hover text">
+</p>
 
 One Paragraph of project description goes here
 
