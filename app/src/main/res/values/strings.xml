@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Speed : GPS vs Accelerometer</string>
+  <string name="popup_title_permission_files_access">Cette application a besoin de permission pour fonctionner.</string>
+</resources>
