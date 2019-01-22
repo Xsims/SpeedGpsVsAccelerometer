@@ -1,6 +1,6 @@
 # Speed GPS vs Accelerometer
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+(https://github.com/Xsims/SpeedGpsVsAccelerometer/blob/master/app/src/main/res/drawable-v24/Screenshot_20190122-221135.jpg)
 
 One Paragraph of project description goes here
 
